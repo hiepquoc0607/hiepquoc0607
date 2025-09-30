@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, Am Hiệp Quốc 👋
 
-<!--
-**hiepquoc0607/hiepquoc0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Beck-end Software Developer. I am passionate about technologies and love to learn new things.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few things I've picked up along my learning journey.
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres,mongodb" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,appwrite,docker" />
+  </a>
+</p>
