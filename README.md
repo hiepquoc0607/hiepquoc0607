@@ -1,6 +1,6 @@
 ## Hi, Am Hiệp Quốc 👋
 
-I am a Beck-end Software Developer. I am passionate about technologies and love to learn new things.
+I am a Back-end Software Developer. I am passionate about technologies and love to learn new things.
 
 ## 🛠 Tech Stack
 
