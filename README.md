@@ -9,7 +9,7 @@ Here are a few things I've picked up along my learning journey.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres,mongodb,redis" />
   </a>
 </p>
 
